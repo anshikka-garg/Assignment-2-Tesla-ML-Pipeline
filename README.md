@@ -1,5 +1,5 @@
 # 🚗 Tesla EV Delivery Forecasting — ML Pipeline
-**Celebal Technologies | Data Science Internship | Assignment 2**
+**Celebal Technologies | CEI | Assignment 2**
 
 ---
 
